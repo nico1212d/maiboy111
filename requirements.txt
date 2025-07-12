@@ -1,0 +1,6 @@
+loguru
+tomlkit
+toml
+attrs
+structlog
+pillow
